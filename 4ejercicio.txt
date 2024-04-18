@@ -1,0 +1,4 @@
+Explica cómo funciona el operador ternario en JavaScript y proporciona un ejemplo de su
+uso.
+resultado= un operador ternario es para comprobar si una condicion es falsa o verdadera 
+podemos utilizando si alguna persona es mayor de edad si es mayor es verdadera y si es menor es falso 

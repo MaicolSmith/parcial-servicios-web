@@ -1,0 +1,2 @@
+¿Qué es una declaración switch en JavaScript y cuándo es útil su uso?
+r= sirve para evaluar un resultado, el cual se puede comparar ese resultado con una instancia case, el cual puede ejecutar las de declaraciones 
