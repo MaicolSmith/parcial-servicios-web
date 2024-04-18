@@ -5,8 +5,8 @@
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-      "index:run":"node index.js"
-      
+      "index:run":"node index.js",
+      "respuesta":"respuesta3.js"
     },
     "keywords": [],
     "author": "",
