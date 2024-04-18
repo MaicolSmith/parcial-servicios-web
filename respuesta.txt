@@ -1,0 +1,16 @@
+teoricas:
+primera:La diferencia seria que el operador == es para dar una condicion de igual ya sea una valor o un dato. 
+la diferencia seria que el operador === es para dar una codicion de exactitud es decir que mi dato o valor sea y solamente sea igual o si no no corra 
+
+tercera: La diferencia seria que el array me recorre una lista y el objeto seia la instacia de mi clase.
+array [manzana,platano,banano] mientras que un objeto: 
+let carro = {
+    marca=ferrary
+    placa=dfg45
+    color=negro
+}
+quinta:  es un simbolo con el cual puedo hacer una ecuacion,normalmente de matematicas es por ejemplo 7/7 o 8+8 o 9-5
+
+
+
+
